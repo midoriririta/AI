@@ -1,0 +1,26 @@
+Error-Correcting codes 2018-19
+
+Test Results
+
+
+ 
+Part 0. message(a)
+
+0.0.
+Input:		[1]
+Output:		[0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0] 
+Solution:	[0, 0, 1, 1] 
+Outcome:	NO
+
+0.1.
+Input:		[0, 0, 1]
+Output:		[0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0] 
+Solution:	[0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0] 
+Outcome:	ok
+
+Part 0: 0 marks
+
+
+ 
+Part 1. hammingEncoder(m)
+
